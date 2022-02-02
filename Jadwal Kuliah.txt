@@ -2,7 +2,9 @@ Senin
 Alpro 1
 
 Selasa 
-Matematika Terapan
+
+Organisasi Komputer 
+
 
 Rabu
 Matematika diskrit
