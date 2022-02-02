@@ -2,4 +2,6 @@ Jaadwal Belajar 2021
 Belajar Laravel
 Belajar Git and GitHub 
 Belajar Python
+Belajar PHP
+Belajar CSS
 Belajar Go
